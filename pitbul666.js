@@ -1364,12 +1364,11 @@ function langGet(name) {
 
 langAdd('default_playlist',
     {
-	ru: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8',
-	uk: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8',
-	be: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8',
-	en: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8',
-	zh: 'https://raw.iqiq.io/Free-TV/IPTV/master/playlist.m3u8'
-    }
+	ru: 'https://lightiptv.cc/playlist/hls/86fzonrydg.m3u',
+	uk: 'https://lightiptv.cc/playlist/hls/86fzonrydg.m3u',
+	be: 'https://lightiptv.cc/playlist/hls/86fzonrydg.m3u',
+	en: 'https://lightiptv.cc/playlist/hls/86fzonrydg.m3u',
+	zh: 'https://lightiptv.cc/playlist/hls/86fzonrydg.m3u'
 );
 langAdd('default_playlist_cat',
     {
