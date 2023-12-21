@@ -1,7 +1,7 @@
 /*
 // https://ss-iptv.com/ru/operators/catchup
 // niklabs.com/catchup-settings/
-//https://lightiptv.cc/playlist/hls/86fzonrydg.m3u?utc=1666796400&lutc=1666826200
+//http://plwxk8hl.russtv.net/iptv/00000000000000/9201/index.m3u8?utc=1666796400&lutc=1666826200
 */
 ;(function () {
 'use strict';
