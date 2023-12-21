@@ -1364,11 +1364,11 @@ function langGet(name) {
 
 langAdd('default_playlist',
     {
-	ru: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8',
-	uk: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8',
-	be: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8',
-	en: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8',
-	zh: 'https://raw.iqiq.io/Free-TV/IPTV/master/playlist.m3u8'
+	ru: 'https://lightiptv.cc/playlist/hls/86fzonrydg.m3u',
+	uk: 'https://lightiptv.cc/playlist/hls/86fzonrydg.m3u',
+	be: 'https://lightiptv.cc/playlist/hls/86fzonrydg.m3u',
+	en: 'https://lightiptv.cc/playlist/hls/86fzonrydg.m3u',
+	zh: 'https://lightiptv.cc/playlist/hls/86fzonrydg.m3u'
     }
 );
 langAdd('default_playlist_cat',
@@ -1422,7 +1422,7 @@ langAdd('settings_list_url_desc0',
 	uk: 'За замовчуванням використовується плейлист із проекту <i>https://github.com/Free-TV/IPTV</i><br>Ви можете замінити його на свій.',
 	be: 'Па змаўчанні выкарыстоўваецца плэйліст з праекта <i>https://github.com/Free-TV/IPTV</i><br> Вы можаце замяніць яго на свой.',
 	en: 'The default playlist is from the project <i>https://github.com/Free-TV/IPTV</i><br>You can replace it with your own.',
-	zh: '默认播放列表来自项目 <i>https://github.com/Free-TV/IPTV</i><br>您可以将其替换为您自己的。'
+	zh: '默认播放列表来自项目 <i></i><br>您可以将其替换为您自己的。'
     }
 );
 langAdd('settings_list_url_desc1',
